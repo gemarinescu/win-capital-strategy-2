@@ -1,1 +1,0 @@
-const f=document.querySelector('#strategy-form');if(f)f.addEventListener('submit',e=>{e.preventDefault();document.querySelector('#note').textContent='Preview submitted. Connect this form to your booking system before launch.';f.reset()});
